@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash Sharma
 
-### 📊 Data Analyst | Python | SQL | Excel | Power BI | Tableau | Streamlit
+### 📊 Data Analyst
 
 I'm a **BCA graduate and aspiring Data Analyst** focused on turning raw data into meaningful business insights.
 
